@@ -10,7 +10,7 @@ const Contact = () => {
       <Hero 
         title="Contact Us"
         subtitle="Get in touch with our team for all your electrical needs or to request a free quote."
-        imgUrl="https://images.unsplash.com/photo-1553708881-112abc53fe54?q=80&w=2070&auto=format&fit=crop"
+        imgUrl="https://images.unsplash.com/photo-1583775639206-047f1b8947c6?q=80&w=2070&auto=format&fit=crop"
         showCTA={false}
       />
       

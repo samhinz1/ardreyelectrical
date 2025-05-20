@@ -1,3 +1,4 @@
+
 import Hero from "@/components/Hero";
 import { Check, User, Zap, Award, Wrench, ShieldCheck } from "lucide-react";
 import { Link } from "react-router-dom";
@@ -9,7 +10,7 @@ const About = () => {
       <Hero 
         title="About Ardrey Electrical"
         subtitle="Learn about our team, our history, and our commitment to providing top-quality electrical services."
-        imgUrl="https://images.unsplash.com/photo-1621905252507-b35492cc74b4?q=80&w=2069&auto=format&fit=crop"
+        imgUrl="https://images.unsplash.com/photo-1621894147952-f39268bc6020?q=80&w=2073&auto=format&fit=crop"
       />
       
       {/* About Content */}
@@ -31,7 +32,7 @@ const About = () => {
             
             <div>
               <img 
-                src="https://images.unsplash.com/photo-1621905251189-08b45d6a269e?q=80&w=2069&auto=format&fit=crop" 
+                src="https://images.unsplash.com/photo-1559529644-9d0e98e78ce4?q=80&w=2070&auto=format&fit=crop" 
                 alt="Electrician working on electrical panel"
                 className="rounded-xl shadow-lg"
               />

@@ -13,25 +13,25 @@ const Index = () => {
       title: "Residential Electrical",
       description: "Complete electrical solutions for your home including wiring, lighting, repairs, and safety inspections.",
       icon: <Zap size={24} />,
-      imgUrl: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=2070&auto=format&fit=crop"
+      imgUrl: "https://images.unsplash.com/photo-1503387837-b154d5074bd2?q=80&w=2071&auto=format&fit=crop"
     },
     {
       title: "Commercial Electrical",
       description: "Professional electrical services for offices, retail spaces, and commercial properties.",
       icon: <ShieldCheck size={24} />,
-      imgUrl: "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?q=80&w=2070&auto=format&fit=crop"
+      imgUrl: "https://images.unsplash.com/photo-1569466642262-3e46105aff51?q=80&w=2074&auto=format&fit=crop"
     },
     {
       title: "Lighting Installation",
       description: "Expert installation of all types of lighting fixtures, including energy-efficient options.",
       icon: <LightbulbIcon size={24} />,
-      imgUrl: "https://images.unsplash.com/photo-1565043666747-69f6646db940?q=80&w=2070&auto=format&fit=crop"
+      imgUrl: "https://images.unsplash.com/photo-1565193298442-2373bcf2bd3a?q=80&w=2070&auto=format&fit=crop"
     },
     {
       title: "Emergency Repairs",
       description: "24/7 emergency electrical repair services to keep your home or business safe.",
       icon: <Wrench size={24} />,
-      imgUrl: "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?q=80&w=2069&auto=format&fit=crop"
+      imgUrl: "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?q=80&w=2070&auto=format&fit=crop"
     }
   ];
   
@@ -157,7 +157,7 @@ const Index = () => {
             
             <div className="hidden lg:block">
               <img 
-                src="https://images.unsplash.com/photo-1621905252507-b35492cc74b4?q=80&w=2069&auto=format&fit=crop" 
+                src="https://images.unsplash.com/photo-1601933513793-2aefee3c1138?q=80&w=2070&auto=format&fit=crop" 
                 alt="Electrician working"
                 className="rounded-xl shadow-xl w-full h-auto"
               />
@@ -193,7 +193,7 @@ const Index = () => {
       <section className="relative py-16 md:py-24 overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="https://images.unsplash.com/photo-1621905252507-b35492cc74b4?q=80&w=2069&auto=format&fit=crop" 
+            src="https://images.unsplash.com/photo-1558651312-269cf11414bc?q=80&w=2070&auto=format&fit=crop" 
             alt="Electrical service"
             className="w-full h-full object-cover"
           />

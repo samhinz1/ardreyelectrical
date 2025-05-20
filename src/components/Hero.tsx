@@ -15,7 +15,7 @@ const Hero = ({
   title = 'Quality Electrical Services You Can Trust',
   subtitle = 'Licensed professionals serving Brisbane with safe, reliable electrical solutions for homes and businesses.',
   showCTA = true,
-  imgUrl = 'https://images.unsplash.com/photo-1621905251189-08b45d6a269e?q=80&w=2069&auto=format&fit=crop',
+  imgUrl = 'https://images.unsplash.com/photo-1621894147887-41227f9d0847?q=80&w=2070&auto=format&fit=crop',
   imgAlt = 'Electrician working on electrical panel',
   overlay = true
 }: HeroProps) => {
