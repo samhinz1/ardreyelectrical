@@ -13,9 +13,9 @@ const Footer = () => {
           <div>
             <Link to="/" className="inline-block mb-6">
               <img 
-                src="/lovable-uploads/6280a37d-4a9c-4589-b21d-e3510cbf3d09.png" 
+                src="/lovable-uploads/3fbaca6c-e229-44af-a4e2-45835bd51c3c.png" 
                 alt="Ardrey Electrical" 
-                className="h-12"
+                className="h-16"
               />
             </Link>
             <p className="text-gray-300 mb-4">
