@@ -1,10 +1,9 @@
-
 import Hero from "@/components/Hero";
 import ServiceCard from "@/components/ServiceCard";
 import TestimonialCard from "@/components/TestimonialCard";
 import ContactForm from "@/components/ContactForm";
 import { Link } from "react-router-dom";
-import { Phone, Zap, ShieldCheck, Clock, LightbulbIcon, Wrench } from "lucide-react";
+import { Phone, Zap, ShieldCheck, Clock, LightbulbIcon, Wrench, Building2, Mail as MailIcon } from "lucide-react";
 
 const Index = () => {
   // Sample services
@@ -157,7 +156,7 @@ const Index = () => {
             
             <div className="hidden lg:block">
               <img 
-                src="https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?q=80&w=2070&auto=format&fit=crop" 
+                src="https://images.unsplash.com/photo-1621905252507-b35492cc74b4?q=80&w=2069&auto=format&fit=crop" 
                 alt="Electrician working"
                 className="rounded-xl shadow-xl w-full h-auto"
               />
@@ -252,7 +251,7 @@ const Index = () => {
                 
                 <div className="space-y-4">
                   <div className="flex items-start">
-                    <MapPin className="w-5 h-5 mr-3 text-ardrey flex-shrink-0 mt-1" />
+                    <Building2 className="w-5 h-5 mr-3 text-ardrey flex-shrink-0 mt-1" />
                     <div>
                       <h4 className="font-medium">Address</h4>
                       <p className="text-gray-600">1234 Main Street<br />Brisbane, QLD 4000</p>
@@ -268,7 +267,7 @@ const Index = () => {
                   </div>
                   
                   <div className="flex items-start">
-                    <Mail className="w-5 h-5 mr-3 text-ardrey flex-shrink-0 mt-1" />
+                    <MailIcon className="w-5 h-5 mr-3 text-ardrey flex-shrink-0 mt-1" />
                     <div>
                       <h4 className="font-medium">Email</h4>
                       <p className="text-gray-600">info@ardreyelectrical.com.au</p>

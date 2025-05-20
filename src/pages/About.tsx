@@ -1,6 +1,5 @@
-
 import Hero from "@/components/Hero";
-import { Check, User, Zap, Award, Tool } from "lucide-react";
+import { Check, User, Zap, Award, Wrench, ShieldCheck } from "lucide-react";
 import { Link } from "react-router-dom";
 
 const About = () => {
@@ -128,7 +127,7 @@ const About = () => {
             {/* Value 2 */}
             <div className="bg-gray-50 p-6 rounded-xl">
               <div className="w-12 h-12 rounded-full bg-ardrey flex items-center justify-center mb-4">
-                <Tool className="w-6 h-6 text-white" />
+                <Wrench className="w-6 h-6 text-white" />
               </div>
               <h3 className="text-xl font-bold mb-3">Reliability</h3>
               <p className="text-gray-600">
@@ -172,7 +171,7 @@ const About = () => {
             {/* Value 6 */}
             <div className="bg-gray-50 p-6 rounded-xl">
               <div className="w-12 h-12 rounded-full bg-ardrey flex items-center justify-center mb-4">
-                <Shield className="w-6 h-6 text-white" />
+                <ShieldCheck className="w-6 h-6 text-white" />
               </div>
               <h3 className="text-xl font-bold mb-3">Safety</h3>
               <p className="text-gray-600">
@@ -205,7 +204,7 @@ const About = () => {
             {/* Certification 2 */}
             <div className="flex flex-col items-center">
               <div className="w-24 h-24 rounded-full bg-white shadow-md flex items-center justify-center mb-4">
-                <Shield className="w-12 h-12 text-ardrey" />
+                <ShieldCheck className="w-12 h-12 text-ardrey" />
               </div>
               <p className="font-medium text-center">Safety Certified</p>
             </div>
