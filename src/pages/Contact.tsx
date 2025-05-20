@@ -31,8 +31,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="text-xl font-semibold mb-1">Phone</h3>
-                    <p className="text-gray-600 mb-1">Main: (07) 1234 5678</p>
-                    <p className="text-gray-600">Emergency: 0400 123 456</p>
+                    <p className="text-gray-600 mb-1">Main: +61 418 877 843</p>
+                    <p className="text-gray-600">Emergency: +61 418 877 843</p>
                   </div>
                 </div>
                 
@@ -42,8 +42,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="text-xl font-semibold mb-1">Email</h3>
-                    <p className="text-gray-600 mb-1">General: info@ardreyelectrical.com.au</p>
-                    <p className="text-gray-600">Quotes: quotes@ardreyelectrical.com.au</p>
+                    <p className="text-gray-600 mb-1">General: brad@ardrey.com.au</p>
+                    <p className="text-gray-600">Quotes: brad@ardrey.com.au</p>
                   </div>
                 </div>
                 

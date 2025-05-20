@@ -1,3 +1,4 @@
+
 import Hero from "@/components/Hero";
 import ServiceCard from "@/components/ServiceCard";
 import TestimonialCard from "@/components/TestimonialCard";
@@ -212,9 +213,9 @@ const Index = () => {
               Request a Quote
             </Link>
             
-            <a href="tel:0712345678" className="btn bg-ardrey-accent text-white hover:bg-ardrey-light btn-lg inline-flex items-center">
+            <a href="tel:+61418877843" className="btn bg-ardrey-accent text-white hover:bg-ardrey-light btn-lg inline-flex items-center">
               <Phone className="w-5 h-5 mr-2" />
-              Call (07) 1234 5678
+              Call +61 418 877 843
             </a>
           </div>
         </div>
@@ -262,7 +263,7 @@ const Index = () => {
                     <Phone className="w-5 h-5 mr-3 text-ardrey flex-shrink-0 mt-1" />
                     <div>
                       <h4 className="font-medium">Phone</h4>
-                      <p className="text-gray-600">(07) 1234 5678</p>
+                      <p className="text-gray-600">+61 418 877 843</p>
                     </div>
                   </div>
                   
@@ -270,7 +271,7 @@ const Index = () => {
                     <MailIcon className="w-5 h-5 mr-3 text-ardrey flex-shrink-0 mt-1" />
                     <div>
                       <h4 className="font-medium">Email</h4>
-                      <p className="text-gray-600">info@ardreyelectrical.com.au</p>
+                      <p className="text-gray-600">brad@ardrey.com.au</p>
                     </div>
                   </div>
                   
